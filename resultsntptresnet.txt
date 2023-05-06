@@ -1,0 +1,23 @@
+Bright Maschine Learning software stack loaded.
+Files already downloaded and verified
+Files already downloaded and verified
+Beginning training from epoch: 1
+Train Loss 0.306
+Train Loss 4.758
+Train Loss 2.903
+Train Loss 2.454
+Train Loss 2.300
+Train Loss 2.262
+Train Loss 2.402
+Train Loss 2.206
+Epoch   1 | Time    33 | Train Loss 2.1521 | Test Loss 0.002 | Test Error 74.82
+Train Loss 0.215
+Train Loss 2.111
+Train Loss 2.096
+Train Loss 2.073
+Train Loss 2.023
+Train Loss 1.997
+Train Loss 1.968
+Train Loss 1.907
+Epoch   2 | Time    31 | Train Loss 1.9135 | Test Loss 0.002 | Test Error 62.64
+slurmstepd: error: *** JOB 3114071 ON gpu-node010 CANCELLED AT 2023-05-03T15:26:49 ***

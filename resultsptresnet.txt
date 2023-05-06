@@ -1,0 +1,9 @@
+Bright Maschine Learning software stack loaded.
+Files already downloaded and verified
+Files already downloaded and verified
+Traceback (most recent call last):
+  File "/work/ws-tmp/g056543-Data_Augmix/augmix_project/cifar.py", line 461, in <module>
+    main()
+  File "/work/ws-tmp/g056543-Data_Augmix/augmix_project/cifar.py", line 356, in main
+    net = torchvision.models.convnext_tiny(pretrained=True)
+AttributeError: module 'torchvision.models' has no attribute 'convnext_tiny'

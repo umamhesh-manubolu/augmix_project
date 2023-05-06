@@ -1,0 +1,941 @@
+Bright Maschine Learning software stack loaded.
+/home/g056543/.conda/envs/Manu/bin/python
+2023-05-05 17:30:33.883269: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+/home/g056543/.conda/envs/Manu/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/g056543/.conda/envs/Manu/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Files already downloaded and verified
+Files already downloaded and verified
+Beginning training from epoch: 1
+Train Loss 0.236
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   1 | Time    65 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   2 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   3 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   4 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   5 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   6 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   7 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   8 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch   9 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  10 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  11 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  12 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  13 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  14 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  15 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  16 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  17 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  18 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  19 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  20 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  21 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  22 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  23 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  24 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  25 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  26 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  27 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  28 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  29 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  30 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  31 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  32 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  33 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  34 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  35 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  36 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  37 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  38 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  39 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  40 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  41 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  42 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  43 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  44 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  45 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  46 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  47 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  48 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  49 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  50 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  51 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  52 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  53 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  54 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  55 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  56 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  57 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  58 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  59 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  60 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  61 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  62 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  63 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  64 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  65 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  66 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  67 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  68 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  69 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  70 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  71 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  72 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  73 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  74 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  75 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  76 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  77 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  78 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  79 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  80 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  81 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  82 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  83 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  84 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  85 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  86 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  87 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  88 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  89 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  90 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  91 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  92 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  93 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  94 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  95 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  96 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  97 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  98 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch  99 | Time    55 | Train Loss nan | Test Loss nan | Test Error 90.00
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Train Loss nan
+Epoch 100 | Time    54 | Train Loss nan | Test Loss nan | Test Error 90.00
+gaussian_noise
+	Test Loss nan | Test Error 90.000
+shot_noise
+	Test Loss nan | Test Error 90.000
+impulse_noise
+	Test Loss nan | Test Error 90.000
+defocus_blur
+	Test Loss nan | Test Error 90.000
+glass_blur
+	Test Loss nan | Test Error 90.000
+motion_blur
+	Test Loss nan | Test Error 90.000
+zoom_blur
+	Test Loss nan | Test Error 90.000
+snow
+	Test Loss nan | Test Error 90.000
+frost
+	Test Loss nan | Test Error 90.000
+fog
+	Test Loss nan | Test Error 90.000
+brightness
+	Test Loss nan | Test Error 90.000
+contrast
+	Test Loss nan | Test Error 90.000
+elastic_transform
+	Test Loss nan | Test Error 90.000
+pixelate
+	Test Loss nan | Test Error 90.000
+jpeg_compression
+	Test Loss nan | Test Error 90.000
+Mean Corruption Error: 90.000
